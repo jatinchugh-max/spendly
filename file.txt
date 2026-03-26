@@ -33,3 +33,11 @@ Data Storage, Third Party Services, and Contact Us.
 Match the style of terms.html.
 3. In templates/landing.html, update the "Privacy Policy"
 footer link href from "#" to "/privacy".
+
+Refer screenshot of the updated Spendly hero section
+design at "C:\Users\TEMP\Desktop\website.jpg".
+
+Modify only the hero section in @templates/landing.html and
+@static/css/landing.css
+to match this image exactly. Do not touch any other part of the
+page.
